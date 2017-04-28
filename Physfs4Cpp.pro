@@ -37,4 +37,5 @@ unix {
 
 DISTFILES += \
     FindPhysFS.cmake \
-    CMakeLists.txt
+    CMakeLists.txt \
+    README.md
